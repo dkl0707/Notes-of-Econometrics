@@ -1,6 +1,8 @@
 # Notes-of-Econometrics
 （下载方式：用电脑点击**右上角绿色的code**，然后点击**下拉菜单中的Download Zip**；或者点击**项目里的notes_of_econometrics.pdf**，再点击**右下角的download**。如果网页打不开，**多下几次，或者等会再打开**。文件很小，下载速度很快，不需要翻墙）
 
+**Version 2.5 修正工具变量章节中的小部分bug
+
 **Version 2.4 修正多元线性回归中X矩阵打错的小bug。当然，如果你觉得下标i跟你直观上的aij有所冲突的话，你可以写成Yi=\beta_0+\beta_1 X_i1+\beta_2 X_i2+u_i**
 
 **Version 2.3 修正了多项式回归假设检验部分H0和H1写反的bug；**
